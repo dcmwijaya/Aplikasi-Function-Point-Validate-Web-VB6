@@ -157,4 +157,6 @@ End Sub
 '##############################################################'
 Private Sub Command4_Click()
     Form1.Show
+    Form4.Hide
+    Unload Me
 End Sub

@@ -602,8 +602,12 @@ End Sub
 '################################################'
 Private Sub Command17_Click()
     Form3.Show
+    Form2.Hide
+    Unload Me
 End Sub
 '################################################'
 Private Sub Command18_Click()
     Form1.Show
+    Form2.Hide
+    Unload Me
 End Sub

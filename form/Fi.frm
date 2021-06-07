@@ -576,7 +576,11 @@ Private Sub Command1_Click()
 End Sub
 Private Sub Command2_Click()
     Form4.Show
+    Form3.Hide
+    Unload Me
 End Sub
 Private Sub Command3_Click()
     Form1.Show
+    Form3.Hide
+    Unload Me
 End Sub

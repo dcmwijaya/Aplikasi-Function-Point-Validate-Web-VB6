@@ -164,16 +164,27 @@ Attribute VB_PredeclaredId = True
 Attribute VB_Exposed = False
 Private Sub Command1_Click()
     Form2.Show
+    Form1.Hide
+    Unload Me
 End Sub
 '###############################################'
 Private Sub Command2_Click()
     Form3.Show
+    Form1.Hide
+    Unload Me
 End Sub
 '###############################################'
 Private Sub Command3_Click()
     Form4.Show
+    Form1.Hide
+    Unload Me
 End Sub
 '###############################################'
 Private Sub Command4_Click()
+    Form1.Hide
+    Form2.Hide
+    Form3.Hide
+    Form4.Hide
+    Unload Me
     End
 End Sub
