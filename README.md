@@ -11,6 +11,21 @@ Tugas Rekayasa Perangkat Lunak - Membuat aplikasi penghitung nilai kelayakan dar
 
 <br>
 
+## Preview
+1. Halaman Utama
+![Preview-1](https://user-images.githubusercontent.com/54527592/120981548-f7716d00-c7a1-11eb-872e-81c614f64cb2.png)
+
+2. Halaman CPP
+![Preview-2](https://user-images.githubusercontent.com/54527592/120981094-816d0600-c7a1-11eb-8705-3fad912d1368.png)
+
+3. Halaman Fi
+![Preview-3](https://user-images.githubusercontent.com/54527592/120981240-aa8d9680-c7a1-11eb-9e23-5199da225f34.png)
+
+4. Halaman FP
+![Preview-4](https://user-images.githubusercontent.com/54527592/120981469-e58fca00-c7a1-11eb-87ff-68d9fea4e8eb.png)
+
+<br>
+
 ## Kelompok 6 RPL B
 | NO | NAMA ANGGOTA KELOMPOK | NPM |
 | --- | --- | --- |
