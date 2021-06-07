@@ -6,8 +6,9 @@ Begin VB.Form Form3
    ClientLeft      =   120
    ClientTop       =   465
    ClientWidth     =   13125
+   Icon            =   "Fi.frx":0000
    LinkTopic       =   "Form3"
-   Picture         =   "Fi.frx":0000
+   Picture         =   "Fi.frx":0A72
    ScaleHeight     =   8070
    ScaleWidth      =   13125
    StartUpPosition =   3  'Windows Default

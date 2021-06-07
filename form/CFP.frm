@@ -6,10 +6,11 @@ Begin VB.Form Form2
    ClientLeft      =   120
    ClientTop       =   465
    ClientWidth     =   9675
+   Icon            =   "CFP.frx":0000
    LinkTopic       =   "Form1"
-   Picture         =   "CFP.frx":0000
-   ScaleHeight     =   10215
-   ScaleWidth      =   18960
+   Picture         =   "CFP.frx":0A72
+   ScaleHeight     =   7635
+   ScaleWidth      =   9675
    StartUpPosition =   3  'Windows Default
    WindowState     =   2  'Maximized
    Begin VB.TextBox Text6 

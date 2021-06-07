@@ -6,8 +6,9 @@ Begin VB.Form Form1
    ClientLeft      =   120
    ClientTop       =   465
    ClientWidth     =   10575
+   Icon            =   "Halaman Utama.frx":0000
    LinkTopic       =   "Form2"
-   Picture         =   "Halaman Utama.frx":0000
+   Picture         =   "Halaman Utama.frx":0A72
    ScaleHeight     =   6690
    ScaleWidth      =   10575
    StartUpPosition =   3  'Windows Default

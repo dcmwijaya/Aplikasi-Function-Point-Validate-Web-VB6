@@ -8,3 +8,12 @@
 
 # Aplikasi-Function-Point-Validate-Web-VB6
 Tugas Rekayasa Perangkat Lunak - Membuat aplikasi penghitung nilai kelayakan dari suatu Website dengan menggunakan metode Function Point dalam ranah Software Metric
+
+<br>
+
+## Kelompok 6 RPL B
+| NO | NAMA ANGGOTA KELOMPOK | NPM |
+| --- | --- | --- |
+| 1 | Heri Khariono | 18081010002 |
+| 2 | Devan Cakra Mudra Wijaya | 18081010013 |
+| 3 | Rifky Akhmad Fernanda | 18081010126 |

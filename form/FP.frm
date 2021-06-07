@@ -5,10 +5,11 @@ Begin VB.Form Form4
    ClientLeft      =   120
    ClientTop       =   465
    ClientWidth     =   11985
+   Icon            =   "FP.frx":0000
    LinkTopic       =   "Form4"
-   Picture         =   "FP.frx":0000
-   ScaleHeight     =   10215
-   ScaleWidth      =   18960
+   Picture         =   "FP.frx":0A72
+   ScaleHeight     =   7560
+   ScaleWidth      =   11985
    StartUpPosition =   3  'Windows Default
    WindowState     =   2  'Maximized
    Begin VB.TextBox Text3 
