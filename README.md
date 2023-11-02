@@ -7,28 +7,71 @@
 ![VBA](https://img.shields.io/badge/Uses-Visual%20Basic%206-blue.svg?&style=flat&logo=microsoftvisualbasic)
 
 # Aplikasi-Function-Point-Validate-Web-VB6
-Tugas Rekayasa Perangkat Lunak - Membuat aplikasi penghitung nilai kelayakan dari suatu Website dengan menggunakan metode Function Point dalam ranah Software Metric
+Software Engineering Assignment - Create an application to calculate the feasibility value of a website using the Function Point method in the realm of Software Metric.
 
 <br>
 
-## Preview
-1. Halaman Utama
-![Preview-1](https://user-images.githubusercontent.com/54527592/120981548-f7716d00-c7a1-11eb-872e-81c614f64cb2.png)
-
-2. Halaman CPP
-![Preview-2](https://user-images.githubusercontent.com/54527592/120981094-816d0600-c7a1-11eb-8705-3fad912d1368.png)
-
-3. Halaman Fi
-![Preview-3](https://user-images.githubusercontent.com/54527592/120981240-aa8d9680-c7a1-11eb-9e23-5199da225f34.png)
-
-4. Halaman FP
-![Preview-4](https://user-images.githubusercontent.com/54527592/120981469-e58fca00-c7a1-11eb-87ff-68d9fea4e8eb.png)
+## Features / Framework / Tools
+| Part | Description |
+| --- | --- |
+| Features | Computation |
+| Tools | Visual Basic 6.0 Enterprise |
 
 <br>
 
-## Kelompok 6 RPL B
-| NO | NAMA ANGGOTA KELOMPOK | NPM |
+## Download & Install Visual Basic 6.0 Enterprise
+```bash
+https://bit.ly/Installer_VB6
+```
+
+<br>
+
+## Running
+1.Download this repository.<br>
+2.Extract the file.<br>
+3.Click "ProgramFP_Kel6.exe" to run the application program.<br>
+4.Please enjoy [Done].
+
+<br>
+
+## Highlights
+<table>
+<tr>
+<th width="420">Main Menu</th>
+<th width="420">CPP</th>
+</tr>
+<tr>
+<td><img src="https://user-images.githubusercontent.com/54527592/120981548-f7716d00-c7a1-11eb-872e-81c614f64cb2.png" alt="main-menu"></td>
+<td><img src="https://user-images.githubusercontent.com/54527592/120981094-816d0600-c7a1-11eb-8705-3fad912d1368.png" alt="cpp"></td>
+</tr>
+</table>
+<table>
+<tr>
+<th width="420">Fi</th>
+<th width="420">FP</th>
+</tr>
+<tr>
+<td><img src="https://user-images.githubusercontent.com/54527592/120981240-aa8d9680-c7a1-11eb-9e23-5199da225f34.png" alt="fi"></td>
+<td><img src="https://user-images.githubusercontent.com/54527592/120981469-e58fca00-c7a1-11eb-87ff-68d9fea4e8eb.png" alt="fp"></td>
+</tr>
+</table>
+
+<br>
+
+## Group 6 - RPL B
+| NUMBER | FULL NAME | NPM |
 | --- | --- | --- |
 | 1 | Heri Khariono | 18081010002 |
 | 2 | Devan Cakra Mudra Wijaya | 18081010013 |
 | 3 | Rifky Akhmad Fernanda | 18081010126 |
+
+<br>
+
+## LICENSE
+MIT License - Copyright (c) 2020 - Devan Cakra Mudra Wijaya et al
+
+Permission is hereby granted without charge to any person obtaining a copy of this software and the software-related documentation files to deal in them without restriction, including without limitation the right to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons receiving the Software to be furnished therewith on the following terms:
+
+The above copyright notice and this permission notice must accompany all copies or substantial portions of the Software.
+
+IN ANY EVENT, THE AUTHOR OR COPYRIGHT HOLDER HEREIN RETAINS FULL OWNERSHIP RIGHTS. THE SOFTWARE IS PROVIDED AS IS, WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, THEREFORE IF ANY DAMAGE, LOSS, OR OTHERWISE ARISES FROM THE USE OR OTHER DEALINGS IN THE SOFTWARE, THE AUTHOR OR COPYRIGHT HOLDER SHALL NOT BE LIABLE, AS THE USE OF THE SOFTWARE IS NOT COMPELLED AT ALL, SO THE RISK IS YOUR OWN.
