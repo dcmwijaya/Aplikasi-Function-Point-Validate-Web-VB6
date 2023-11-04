@@ -7,7 +7,8 @@
 ![VBA](https://img.shields.io/badge/Uses-Visual%20Basic%206-blue.svg?&style=flat&logo=microsoftvisualbasic)
 
 # Aplikasi-Function-Point-Validate-Web-VB6
-Software Engineering Assignment - Create an application to calculate the feasibility value of a website using the Function Point method in the realm of Software Metric.
+<strong>Software Engineering Assignment</strong><br> 
+Create an application to calculate the feasibility value of a website using the Function Point method in the realm of Software Metric.
 
 <br>
 
@@ -29,7 +30,7 @@ https://bit.ly/Installer_VB6
 ## Running
 1.Download this repository.<br>
 2.Extract the file.<br>
-3.Click "ProgramFP_Kel6.exe" to run the application program.<br>
+3.Click ``` ProgramFP_Kel6.exe ``` to run the application program.<br>
 4.Please enjoy [Done].
 
 <br>
