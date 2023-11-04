@@ -7,7 +7,8 @@
 ![VBA](https://img.shields.io/badge/Uses-Visual%20Basic%206-blue.svg?&style=flat&logo=microsoftvisualbasic)
 
 # Aplikasi-Function-Point-Validate-Web-VB6
-Tugas Rekayasa Perangkat Lunak - Membuat aplikasi untuk menghitung nilai kelayakan sebuah website dengan menggunakan metode Function Point dalam ranah Software Metric.
+<strong>Tugas Rekayasa Perangkat Lunak</strong><br>
+Membuat aplikasi untuk menghitung nilai kelayakan sebuah website dengan menggunakan metode Function Point dalam ranah Software Metric.
 
 <br>
 
@@ -27,10 +28,10 @@ https://bit.ly/Installer_VB6
 <br>
 
 ## Menjalankan
-1.Unduh repositori ini.<br>
-2.Ekstrak file.<br>
-3.Klik "ProgramFP_Kel6.exe" untuk menjalankan program aplikasi.<br>
-4.Selamat menikmati [Selesai].
+1. Unduh repositori ini.<br>
+2. Ekstrak file.<br>
+3. Klik ``` ProgramFP_Kel6.exe ``` untuk menjalankan program aplikasi.<br>
+4. Selamat menikmati [Selesai].
 
 <br>
 
