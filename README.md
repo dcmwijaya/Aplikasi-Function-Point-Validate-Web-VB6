@@ -17,6 +17,7 @@ Create an application to calculate the feasibility value of a website using the 
 | --- | --- |
 | Features | Computation |
 | Tools | Visual Basic 6.0 Enterprise |
+| Operation System | Windows 10 |
 
 <br>
 
