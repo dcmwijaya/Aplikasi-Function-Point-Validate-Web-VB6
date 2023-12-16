@@ -23,7 +23,7 @@ Create an application to calculate the feasibility value of a website using the 
 
 ## Download & Install Visual Basic 6.0 Enterprise
 ```bash
-https://bit.ly/Installer_VB6
+https://bit.ly/Installer_MS_VB6
 ```
 
 <br>
