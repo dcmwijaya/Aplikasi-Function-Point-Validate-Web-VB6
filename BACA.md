@@ -23,7 +23,7 @@ Membuat aplikasi untuk menghitung nilai kelayakan sebuah website dengan mengguna
 
 ## Unduh & Instal Visual Basic 6.0 Enterprise
 ```bash
-https://bit.ly/Installer_VB6
+https://bit.ly/Installer_MS_VB6
 ```
 
 <br>
