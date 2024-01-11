@@ -9,7 +9,7 @@ Membuat aplikasi untuk menghitung nilai kelayakan sebuah website dengan mengguna
 
 <br>
 
-## Fitur / Kerangka Kerja / Peralatan
+## Kebutuhan Proyek
 | Bagian | Deskripsi |
 | --- | --- |
 | Fitur | Komputasi |
