@@ -9,7 +9,7 @@ Create an application to calculate the feasibility value of a website using the 
 
 <br>
 
-## Features / Framework / Tools
+## Project Requirements
 | Part | Description |
 | --- | --- |
 | Features | Computation |
