@@ -1,7 +1,7 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?style=flat)](https://github.com/ellerbrock/open-source-badges/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?logo=github&color=%23F7DF1E)](https://github.com/devancakra/Aplikasi-Function-Point-Validate-Web-VB6)
 ![GitHub last commit](https://img.shields.io/github/last-commit/devancakra/Aplikasi-Function-Point-Validate-Web-VB6)
-![VB6](https://img.shields.io/badge/Visual%20Basic%206-%2340099C.svg?&style=flat&logo=visualbasic&logoColor=white)
+![VB6](https://img.shields.io/badge/6%20programming-%2340099C.svg?&style=flat&logo=visualbasic&logoColor=white)
 
 # Aplikasi-Function-Point-Validate-Web-VB6
 <strong>Software Engineering Assignment</strong><br> 
