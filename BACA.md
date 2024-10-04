@@ -1,7 +1,8 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?style=flat)](https://github.com/ellerbrock/open-source-badges/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?logo=github&color=%23F7DF1E)](https://github.com/devancakra/Aplikasi-Function-Point-Validate-Web-VB6)
-![GitHub last commit](https://img.shields.io/github/last-commit/devancakra/Aplikasi-Function-Point-Validate-Web-VB6)
-![VB6](https://img.shields.io/badge/6%20programming-%2340099C.svg?&style=flat&logo=visualbasic&logoColor=white)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?logo=github&color=%23F7DF1E)](https://opensource.org/licenses/MIT)
+![GitHub last commit](https://img.shields.io/github/last-commit/devancakra/Aplikasi-Function-Point-Validate-Web-VB6?logo=Codeforces&logoColor=white&color=%23F7DF1E)
+![Project](https://img.shields.io/badge/Project-Desktop-light.svg?style=flat&logo=c&logoColor=white&color=%23F7DF1E)
+![Type](https://img.shields.io/badge/Type-Campus%20Assignment-light.svg?style=flat&logo=gitbook&logoColor=white&color=%23F7DF1E)
 
 # Aplikasi-Function-Point-Validate-Web-VB6
 <strong>Tugas Rekayasa Perangkat Lunak</strong><br>
@@ -44,8 +45,8 @@ https://bit.ly/VisualBasic6_Installer
 <th width="420">CPP</th>
 </tr>
 <tr>
-<td><img src="https://user-images.githubusercontent.com/54527592/120981548-f7716d00-c7a1-11eb-872e-81c614f64cb2.png" alt="main-menu"></td>
-<td><img src="https://user-images.githubusercontent.com/54527592/120981094-816d0600-c7a1-11eb-8705-3fad912d1368.png" alt="cpp"></td>
+<td><img src="Documentation/Main Menu.jpg" alt="main-menu"></td>
+<td><img src="Documentation/CPP.jpg" alt="cpp"></td>
 </tr>
 </table>
 <table>
@@ -54,8 +55,8 @@ https://bit.ly/VisualBasic6_Installer
 <th width="420">FP</th>
 </tr>
 <tr>
-<td><img src="https://user-images.githubusercontent.com/54527592/120981240-aa8d9680-c7a1-11eb-9e23-5199da225f34.png" alt="fi"></td>
-<td><img src="https://user-images.githubusercontent.com/54527592/120981469-e58fca00-c7a1-11eb-87ff-68d9fea4e8eb.png" alt="fp"></td>
+<td><img src="Documentation/Fi.jpg" alt="fi"></td>
+<td><img src="Documentation/FP.jpg" alt="fp"></td>
 </tr>
 </table>
 
@@ -76,7 +77,7 @@ Jika karya ini bermanfaat bagi anda, maka dukunglah karya ini sebagai bentuk apr
 <br>
 
 ## LISENSI 
-LISENSI MIT - Hak Cipta © 2020 - Devan Cakra Mudra Wijaya dkk
+LISENSI MIT - Hak Cipta © 2020 - Devan C. M. Wijaya dkk
 
 Dengan ini diberikan izin tanpa biaya kepada siapa pun yang mendapatkan salinan perangkat lunak ini dan file dokumentasi terkait perangkat lunak untuk menggunakannya tanpa batasan, termasuk namun tidak terbatas pada hak untuk menggunakan, menyalin, memodifikasi, menggabungkan, mempublikasikan, mendistribusikan, mensublisensikan, dan/atau menjual salinan Perangkat Lunak ini, dan mengizinkan orang yang menerima Perangkat Lunak ini untuk dilengkapi dengan persyaratan berikut:
 
